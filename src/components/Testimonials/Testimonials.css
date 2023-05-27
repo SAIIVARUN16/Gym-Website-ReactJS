@@ -1,0 +1,88 @@
+.Testimonials{
+    display: flex;
+    flex-direction: row;
+    padding: 30px 60px;
+    margin-top: 50px;
+}
+.Testimonials-left{
+    display: flex;
+    flex: 1 1;
+    flex-direction: column;
+    gap:15px;
+}
+.Testimonials-left .header {
+    color: var(--orange);
+    font-weight: 600;
+    font-size: 20px;
+}
+.Testimonials-left .stroke-text:nth-child(2) {
+    font-size: 60px;
+}
+.Testimonials-left .say:nth-child(3){
+    font-size: 60px;
+    color: white;
+    font-weight: 600;
+
+}
+.say{
+    display: block;
+}
+.coach-review{
+    color: white;
+    letter-spacing: 2px;
+    word-wrap: break-word;
+    line-height: 50px;
+    position: relative;
+    top:20px;
+}
+.arrows{
+    display: flex;
+    gap:8px;
+    position: relative;
+    left:50rem;
+    top:-1.7rem;
+    cursor: pointer;
+}
+.leftArrow,.rightArrow{
+    width:25px;
+    height: 20px;
+}
+.coach-name{
+    color: var(--orange);
+    font-weight: 600;
+}
+.coach-review :nth-child(2) span{
+    font-weight: bold; 
+}
+.Testimonials-right{
+    position: relative;
+    right:100px;
+    top:30px;
+}
+
+.Testimonials-right div:nth-child(1){
+    border: 2px solid orange;
+    background-color: transparent;
+    position: absolute;
+    bottom: 60px;
+    right: 25px;
+    width: 290px;
+    height: 380px;
+}
+.Testimonials-right div:nth-child(2) {
+    background-color: orange;
+    position: absolute;
+    top:18px;
+    left: 18px;
+    width: 300px;
+    height: 380px;
+} 
+.coach-image{
+    width: 300px;
+    height:380px;
+    position: relative;
+    right:0px;
+}
+.review{
+    width:800px;
+}

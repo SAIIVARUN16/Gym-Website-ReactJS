@@ -1,0 +1,58 @@
+.Programs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Programs-header{
+    display: flex;
+    justify-content: space-around;
+    width:80%;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.Programs-header span:nth-of-type(2){
+    color: white;
+}
+.Programs-box-block{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    color: white;
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+.Programs-box{
+    display: flex;
+    flex-direction: column;
+    width:250px;
+    height: 240px;
+    background-color: gray;
+    padding: 30px 30px;
+} 
+.Programs-box p{
+    word-wrap: break-word;
+}
+.join-now{
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+    margin-top: 15px;
+}
+.rightArrow{
+    width:20px;
+    height: 15px;
+}
+.healthyHeart{
+    width: 35px;
+    height: 35px;
+}
+.Programs-box:hover{
+    background-color: var(--orange);
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 40px;
+}
+.logo{
+    width: 10rem;
+    height: 3rem;
+    padding: 60px 60px;
+}
+.header-ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap:25px;
+    color: white;
+    padding:60px 60px;
+}
+.header-ul li{
+    cursor: pointer;
+}
+.header-ul li:hover {
+    color: var(--orange);
+}

@@ -1,0 +1,42 @@
+.footer{
+    display: flex;
+    width:300px;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: absolute;
+    bottom: 230px;
+    left:39%;
+}
+.footer img:nth-child(1)
+,.footer img:nth-child(2)
+,.footer img:nth-child(3){
+    width:40px;
+    height: 40px;
+    cursor: pointer;
+}
+.Footer-container{
+    height: 380px;
+    position: relative;
+}
+
+.footer-logo{
+    position: absolute;
+    bottom:100px;
+    left:42%;
+}
+.blur-left{
+    bottom: 0;
+    left:17%;
+    width:29rem;
+    height: 13rem;
+    filter: blur(200px);
+    background: rgb(255,115,0);
+}
+.blur-right {
+    bottom: 0;
+    right: 19%;
+    width: 29rem;
+    height: 13rem;
+    filter: blur(200px);
+    background: red;
+}

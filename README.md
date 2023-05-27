@@ -1,3 +1,17 @@
+# Gym Website
+The gym website I developed using React offers a comprehensive platform for users to register and explore gym facilities, including details about gym coaches, available equipment, and a motivating collection of photos and quotes. With the user-friendly registration process, individuals can easily sign up for gym memberships and gain access to a wealth of fitness resources. The website showcases the profiles of experienced gym coaches, providing information about their qualifications, specialties, and training methodologies. Additionally, users can browse through the website's collection of photos and motivational quotes, serving as a source of inspiration and encouragement throughout their fitness journey. By leveraging the power of React, this gym website provides an engaging and interactive experience, empowering users to achieve their fitness goals while staying motivated and informed.
+
+
+# Output
+
+![Screenshot (195)](https://github.com/SAIIVARUN16/Gym-Website-ReactJS/assets/112090025/6d7f249a-05f0-4d1f-80f4-7526b811282d)
+![Screenshot (196)](https://github.com/SAIIVARUN16/Gym-Website-ReactJS/assets/112090025/a7d45f8c-3afc-4853-a18c-3801ad76fede)
+![Screenshot (197)](https://github.com/SAIIVARUN16/Gym-Website-ReactJS/assets/112090025/e01c753f-7b32-4dd7-9322-fc7f60b3876e)
+![Screenshot (198)](https://github.com/SAIIVARUN16/Gym-Website-ReactJS/assets/112090025/01a3ca19-b077-4030-8c83-d9378c36b61d)
+![Screenshot (199)](https://github.com/SAIIVARUN16/Gym-Website-ReactJS/assets/112090025/7cfc8456-9254-45fa-9717-b9678e7ad32c)
+![Screenshot (200)](https://github.com/SAIIVARUN16/Gym-Website-ReactJS/assets/112090025/b265008b-6d61-4890-9f5f-90fdbade7f05)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
